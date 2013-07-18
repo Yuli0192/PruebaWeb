@@ -1,0 +1,17 @@
+<html>
+	<head>
+		<script type = "text/javascript">
+			function mostrarMensaje()
+			{
+				alert('Se envio los datos a .net');
+			}
+		</script>
+	</head>
+	<body>
+		<form id = "frmDatos" name = "frmDatos" action = "http://localhost:4767/IUWebSite/Default.aspx" method = "Get">
+			<label>Nombre</label> <input type = "text" name = "textNombre" />
+			<label>Edad</label> <input type = "text" name = "textEdad" />
+			<input type="submit" name="bntEnviar" value="Enviar" onclick = "mostrarMensaje()"/>
+		</form>
+	</body>
+</html>

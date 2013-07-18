@@ -1,0 +1,7 @@
+c:\users\yuli\documents\visual studio 2010\Projects\PruebaWeb\LogicaNegocios\bin\Debug\LogicaNegocios.dll
+c:\users\yuli\documents\visual studio 2010\Projects\PruebaWeb\LogicaNegocios\bin\Debug\LogicaNegocios.pdb
+c:\users\yuli\documents\visual studio 2010\Projects\PruebaWeb\LogicaNegocios\bin\Debug\AccesoDatos.dll
+c:\users\yuli\documents\visual studio 2010\Projects\PruebaWeb\LogicaNegocios\bin\Debug\AccesoDatos.pdb
+c:\users\yuli\documents\visual studio 2010\Projects\PruebaWeb\LogicaNegocios\obj\Debug\LogicaNegocios.csprojResolveAssemblyReference.cache
+c:\users\yuli\documents\visual studio 2010\Projects\PruebaWeb\LogicaNegocios\obj\Debug\LogicaNegocios.dll
+c:\users\yuli\documents\visual studio 2010\Projects\PruebaWeb\LogicaNegocios\obj\Debug\LogicaNegocios.pdb
